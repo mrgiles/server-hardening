@@ -1,1 +1,1 @@
-# system-hardening
+# server-hardening
